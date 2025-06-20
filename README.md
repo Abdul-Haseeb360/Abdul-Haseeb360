@@ -75,7 +75,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Haseeb360&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=Abdul-Haseeb360&theme=transparent&hide_border=false" /><br/>
+   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdul-Haseeb360&theme=transparent&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Haseeb360&theme=transparent&hide_border=false&layout=compact" />
 </div>
 
