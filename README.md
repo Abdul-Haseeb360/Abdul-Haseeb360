@@ -18,7 +18,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="[https://a-haseeb.vercel.app](https://haseeb-shaikh.netlify.app/)" target="_blank">
+  <a href="https://haseeb-shaikh.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://discord.gg/HNKs5z5W" target="_blank">
